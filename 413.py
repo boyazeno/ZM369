@@ -1,5 +1,5 @@
 from MaHanBing import YuanYuanLian
 
-lu_dan = YuanYuanLian("Round", size = YuanYuanLian.Large)
+lu_dan = YuanYuanLian("Square", size = YuanYuanLian.Small)
 
 
