@@ -12,3 +12,8 @@ bool yao_love_wo()
 {
 	return true
 }
+
+bool hello()
+{
+	
+}
